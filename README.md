@@ -11,7 +11,7 @@ Hence, we introduce the mixed concept of social online games with motion capture
  - Don't give up to exercise
   
 ## Motion capture devices
-Details can be view on file (CityHack2021/motion capture devices)
+Details can be view on file (CityHack2021/motion capture devices)<br>
 Demo movement patten can be seen on https://r48n34.github.io/motion/mo.html
 ## online game "AfterDay"
 At the time of 2077, the planet was destroyed by humans pollutions.
