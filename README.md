@@ -20,4 +20,4 @@ Meanwhile, due to the invention, creatures from several planet try to conquer th
 You, as a earth defender, will be the last hope to save humans cratures by exercise to combat others evil cratures.
 Exercising, generate Beta-kinetic to become your power, defeat the evil through.
 <img src="https://github.com/r48n34/CityHack2021/blob/master/game%20AfterDay/game%20logo-1.png?raw=true" />
-<img src="https://github.com/r48n34/CityHack2021/blob/master/game%20AfterDay/gppee.png?raw=true" />
+
